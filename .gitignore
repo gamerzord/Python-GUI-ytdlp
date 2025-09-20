@@ -269,3 +269,16 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Build artifacts
+build/
+dist/
+*.spec
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
+
+.vscode
